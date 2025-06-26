@@ -1,2 +1,2 @@
 # repositorio-remoto
-antes do clone
+depois do clone
